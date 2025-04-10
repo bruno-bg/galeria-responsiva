@@ -2,6 +2,10 @@
 
 Este projeto demonstra a implementação de um layout responsivo usando apenas HTML e CSS, sem o uso de frameworks ou bibliotecas externas.
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="./img/screenshot.png" alt="Preview do Sistema" width="49%">
+</div>
+
 ## Descrição
 
 Uma galeria de imagens com tema de natureza que se adapta a diferentes tamanhos de tela através do uso de media queries. O design responsivo garante uma experiência visual adequada em dispositivos de vários tamanhos, desde desktops até smartphones.
@@ -27,6 +31,7 @@ O layout se adapta automaticamente com base nos seguintes breakpoints:
 
 - `index.html` - Contém a estrutura HTML da galeria
 - `style.css` - Contém todos os estilos e media queries para o layout responsivo
+- `screenshot.png` - Imagem do README.md
 
 ## Como Visualizar
 
